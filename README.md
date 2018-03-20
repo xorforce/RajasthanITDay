@@ -20,4 +20,4 @@ The device works by using a sensor named as a Peltier, which on passing electric
 ## Images: <br>
 ![altt_text](https://user-images.githubusercontent.com/14857735/37686894-648ca84a-2cbf-11e8-8336-4e7dbcddf1f5.jpg)
 ![alt_text](https://user-images.githubusercontent.com/14857735/37686895-64c27d3a-2cbf-11e8-800b-421f54c6c1b2.jpg)
-![alt_text]()
+
